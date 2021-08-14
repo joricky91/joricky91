@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi👋 I'm Jonathan Ricky Sandjaja
 
+### About Me :
+
+- 🔭 I’m currently studying at Binus University Bandung, majoring in Computer Science.
+- 🌱 I’m currently learning more HTML, CSS, and Javascript by doing challenges from Frontend Mentor and freeCodeCamp.
 <!--
-**joricky91/joricky91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+!-->
+
+![Jonathan Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=joricky91&show_icons=true&theme=tokyonight)
+
+
+
