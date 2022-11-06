@@ -3,7 +3,7 @@
 ### About Me :
 
 - 🔭 I’m currently studying at Binus University Bandung, majoring in Computer Science.
-- 🌱 I’m currently learning more HTML, CSS, and Javascript by doing challenges from Frontend Mentor and freeCodeCamp.
+- 🌱 I’m currently learning more about iOS Development in Apple Developer Academy @BINUS.
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
