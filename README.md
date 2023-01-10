@@ -2,13 +2,16 @@
 
 ### About Me :
 
-- 🔭 I’m currently studying at Binus University Bandung, majoring in Computer Science.
-- 🌱 I’m currently learning more about iOS Development in Apple Developer Academy @BINUS.
+- 🔭 I’m currently an undergraduate student studying at Binus University Bandung, majoring in Computer Science.
+- 🌱 I’m a graduate of Apple Developer Academy @BINUS Cohort 5.
+- 👯 I’m interested in Native iOS App Development, especially about SwiftUI because it is so fun!
+
+Reach me in:
+- LinkedIn: https://www.linkedin.com/in/jonathan-ricky-sandjaja/
+- Email: jonathanricky92@gmail.com 
 <!--
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 !-->
