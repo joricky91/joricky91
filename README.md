@@ -2,7 +2,7 @@
 
 ### About Me :
 
-- 🔭 I’m currently an undergraduate student studying at Binus University Bandung, majoring in Computer Science.
+- 🔭 I’m a recent graduate student from Binus University Bandung, majoring in Computer Science.
 - 🌱 I’m a graduate of Apple Developer Academy @BINUS Cohort 5.
 - 👯 I’m interested in Native iOS App Development, especially about SwiftUI because it is so fun!
 
